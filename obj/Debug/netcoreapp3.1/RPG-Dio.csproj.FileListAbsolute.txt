@@ -1,0 +1,14 @@
+C:\Users\I\Desktop\Projeto RPG DIO\RPG-Dio\bin\Debug\netcoreapp3.1\RPG-Dio.exe
+C:\Users\I\Desktop\Projeto RPG DIO\RPG-Dio\bin\Debug\netcoreapp3.1\RPG-Dio.deps.json
+C:\Users\I\Desktop\Projeto RPG DIO\RPG-Dio\bin\Debug\netcoreapp3.1\RPG-Dio.runtimeconfig.json
+C:\Users\I\Desktop\Projeto RPG DIO\RPG-Dio\bin\Debug\netcoreapp3.1\RPG-Dio.runtimeconfig.dev.json
+C:\Users\I\Desktop\Projeto RPG DIO\RPG-Dio\bin\Debug\netcoreapp3.1\RPG-Dio.dll
+C:\Users\I\Desktop\Projeto RPG DIO\RPG-Dio\bin\Debug\netcoreapp3.1\RPG-Dio.pdb
+C:\Users\I\Desktop\Projeto RPG DIO\RPG-Dio\obj\Debug\netcoreapp3.1\RPG-Dio.csproj.AssemblyReference.cache
+C:\Users\I\Desktop\Projeto RPG DIO\RPG-Dio\obj\Debug\netcoreapp3.1\RPG-Dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I\Desktop\Projeto RPG DIO\RPG-Dio\obj\Debug\netcoreapp3.1\RPG-Dio.AssemblyInfoInputs.cache
+C:\Users\I\Desktop\Projeto RPG DIO\RPG-Dio\obj\Debug\netcoreapp3.1\RPG-Dio.AssemblyInfo.cs
+C:\Users\I\Desktop\Projeto RPG DIO\RPG-Dio\obj\Debug\netcoreapp3.1\RPG-Dio.csproj.CoreCompileInputs.cache
+C:\Users\I\Desktop\Projeto RPG DIO\RPG-Dio\obj\Debug\netcoreapp3.1\RPG-Dio.dll
+C:\Users\I\Desktop\Projeto RPG DIO\RPG-Dio\obj\Debug\netcoreapp3.1\RPG-Dio.pdb
+C:\Users\I\Desktop\Projeto RPG DIO\RPG-Dio\obj\Debug\netcoreapp3.1\RPG-Dio.genruntimeconfig.cache
