@@ -28,4 +28,4 @@
  * As lutas em turno são feitas ao estilo Final fantasy em turnos, porem com um toque de C# utilizando o prompet de comando dai o nome Final Fantasy C# Edition
  * Cada turno o jogador escolhe qual personagem ira utilizar para atacar, a cada golpe vai printando na tela como esta a vida do inimigo
  
-   ####✅ - Versão utilizada .net core 3.1
+   #### ✅ - Versão utilizada .net core 3.1
